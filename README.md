@@ -3,7 +3,7 @@
 <div align="center">
 
 [[Website]](https://opencausalab.github.io/CAST)
-[[ArXiv]](https://arxiv.org) *(coming soon)*
+[[ArXiv]](https://arxiv.org/abs/2609.39441)
 
 [![GitHub license](https://img.shields.io/github/license/OpenCausaLab/CAST)](https://github.com/OpenCausaLab/CAST)
 
@@ -127,7 +127,7 @@ If you find our work useful in your research, please cite:
   title={CAST: Causal Advantage-Structured Training with Spatially Grounded Compositional Rewards for Diffusion Models},
   author={Shu Yu and Chaochao Lu},
   year={2026},
-  journal={arXiv preprint arXiv:XXXX.XXXXX}
+  journal={arXiv preprint arXiv:2609.39441}
 }
 ```
 
